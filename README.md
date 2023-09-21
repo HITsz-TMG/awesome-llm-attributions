@@ -15,10 +15,21 @@
 *   [2023/07] **Citation: A Key to Building Responsible and Accountable Large Language Models** *Jie Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.02185.pdf)] 
       > This position paper embarks on an exploratory journey into the potential of integrating a citation mechanism within large language models, examining its prospective benefits, the inherent technical obstacles, and foreseeable pitfalls.
 
+*   [2023/09] **ChatGPT Hallucinates when Attributing Answers** *Guido Zuccon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09401)]
+      > This paper suggests that ChatGPT provides correct or partially correct answers in about half of the cases (50.6% of the times), but its suggested references only exist 14% of the times. In thoses referenced answers, the reference often does not support the claims ChatGPT attributes to it.
+
+*   [2023/03] **TRAK: Attributing Model Behavior at Scale** *Sung Min Park et al. arXiv.* [[paper](https://arxiv.org/abs/2303.14186)][[code](https://github.com/MadryLab/trak)]
+      > Attributing Model: trace model predictions back to training data. This paper introduces a data attribution method that is both effective and computationally tractable for large-scale, differentiable models.
 
 ## 2. Attribution Paper Before the Era of Large Language Models 
 
 *   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
+
+*   [2022/12] **Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI** *Alex Mei et al. findings of ACL'22* [[paper](https://aclanthology.org/2023.findings-acl.701.pdf)]
+
+*   [2021/10] **Truthful AI: Developing and governing AI that does not lie** [[paper](http://arxiv.org/abs/2110.06674)]
+
+*   [2021/05] **Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark** *Nouha Dziri et al. TACL'22* [[paper](https://aclanthology.org/2022.tacl-1.62/)][[code](https://github.com/google/BEGIN-dataset)]
 
 ## 3. Sources of Attribution
 
@@ -34,6 +45,8 @@
 * [2023/09] **EXPERTQA : Expert-Curated Questions and Attributed Answers** *Chaitanya Malaviya et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.07852.pdf)] [[code](https://github.com/chaitanyamalaviya/expertqa)]
    > This paper introduces the EXPERTQA, a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with verified answers and attributions for claims in the answers. 
 
+* [2022/12] **CiteBench: A benchmark for Scientific Citation Text Generation** *Martin Funkquist et al. arXiv.* [[paper](https://arxiv.org/abs/2212.09577)]
+
 ## 5 Approaches to Attribution
 
 ### 5.1 Direct Generated Attribution
@@ -41,7 +54,15 @@
 ### 5.2 Retrieval-then-Answering
 
 ### 5.3 Post-Generation Attribution
-* RARR: Researching and Revising What Language Models Say, Using Language Models
+*     RARR: Researching and Revising What Language Models Say, Using Language Models
+*     [2023/06] **Retrieving Supporting Evidence for LLMs Generated Answers** [[paper](http://arxiv.org/abs/2306.13781)]
+      > This paper proposes a two-step verification. The LLM's answer and the retrieved document queried by question and LLM's answer are compared by LLM, checking whether the LLM's answer is hallucinated.
+*     [2023/05] **Do Language Models Know When They're Hallucinating References?** [[paper](http://arxiv.org/abs/2305.18248)]
+*     [2023/05] **Complex Claim Verification with Evidence Retrieved in the Wild** [[paper](https://arxiv.org/abs/2305.11859)][[code](https://github.com/jifan-chen/fact-checking-via-raw-evidence)]
+      > This paper proposes a pipeline(claim decomposition, multi-granularity evidence retrieval, claim-focused summarization) to improve veracity judgments.
+*     [2023/04] **The Internal State of an LLM Knows When its Lying** [[paper](http://arxiv.org/abs/2304.13734)]
+      > This paper utilizes the LLM's hidden layer activations to determine the veracity of statements by a classifier receiveing as input the activation values from the LLM for each of the statements in the dataset.
+
 
 
 ### 5.4 Attribution Systems & End-to-End Attribution Models
@@ -49,15 +70,19 @@
 
 *  [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
 *  WebGPT
-*  GopherCite - Teaching language models to support answers with verified quotes
+*  [2022/03] **GopherCite - Teaching language models to support answers with verified quotes**  [[paper](http://arxiv.org/abs/2203.11147)]
 
 ## 6. Attribution Evaluation
+*   [2023/07] **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios** [[paper](https://arxiv.org/abs/2307.13528v2)][[code](https://github.com/GAIR-NLP/factool)]
+*   [2023/05] **Evaluating and Modeling Attribution for Cross-Lingual Question Answering** *Benjamin Muller et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14332)]
+*   [2023/05] **FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation** [[paper](https://arxiv.org/abs/2305.14251)] [[code](https://github.com/shmsw25/FActScore)]
+*   [2023/05] **"According to ..." Prompting Language Models Improves Quoting from Pre-Training Data** [[paper](https://arxiv.org/abs/2305.13252)]
+      > This paper proposes according-to prompting to directing LLMs to ground responses against previously observed text, and propose QUIP-Score to measure the extent to which model-produced answers are directly found in underlying text corpora.
 *   [2023/05] **Automatic Evaluation of Attribution by Large Language Models.** *X Yue et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.06311.pdf)] [[code](https://github.com/OSU-NLP-Group/AttrScore)]
       > This paper investigate the automatic evaluation of attribution by LLMs, by providing a definition of attribution and then explore two approaches for automatic evaluation. The results highlight both promising signals as well as remaining challenges for the automatic evaluation of attribution.
 *   [2022/12] **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models.** *B Bohnet et al. arXiv.* [[paper](https://arxiv.org/pdf/2212.08037.pdf)] [[code](https://github.com/google-research-datasets/Attributed-QA)]
 *   [2021/12] **Measuring Attribution in Natural Language Generation Models.** *H Rashkin et al. CL.* [[paper](https://arxiv.org/pdf/2112.12870.pdf)]
       > This paper presents a new evaluation framework entitled Attributable to Identified Sources (AIS) for assessing the output of natural language generation models.
-* Evaluating Verifiability in Generative Search Engines
-
+*   [2023/04] **Evaluating Verifiability in Generative Search Engines** [[paper](http://arxiv.org/abs/2304.09848)]
 
 ## 7. Limitations, Future Directions and Challenges in Fact Attribution.
