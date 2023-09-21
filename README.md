@@ -60,13 +60,14 @@
 ### 5.2 Retrieval-then-Answering
 
 ### 5.3 Post-Generation Attribution
-*     RARR: Researching and Revising What Language Models Say, Using Language Models
-*     [2023/06] **Retrieving Supporting Evidence for LLMs Generated Answers** [[paper](http://arxiv.org/abs/2306.13781)]
+
+*  [2022/10] **RARR: Researching and Revising What Language Models Say, Using Language Models** [[paper](https://arxiv.org/abs/2210.08726)]
+*  [2023/06] **Retrieving Supporting Evidence for LLMs Generated Answers** [[paper](http://arxiv.org/abs/2306.13781)]
       > This paper proposes a two-step verification. The LLM's answer and the retrieved document queried by question and LLM's answer are compared by LLM, checking whether the LLM's answer is hallucinated.
-*     [2023/05] **Do Language Models Know When They're Hallucinating References?** [[paper](http://arxiv.org/abs/2305.18248)]
-*     [2023/05] **Complex Claim Verification with Evidence Retrieved in the Wild** [[paper](https://arxiv.org/abs/2305.11859)][[code](https://github.com/jifan-chen/fact-checking-via-raw-evidence)]
+*  [2023/05] **Do Language Models Know When They're Hallucinating References?** [[paper](http://arxiv.org/abs/2305.18248)]
+*  [2023/05] **Complex Claim Verification with Evidence Retrieved in the Wild** [[paper](https://arxiv.org/abs/2305.11859)][[code](https://github.com/jifan-chen/fact-checking-via-raw-evidence)]
       > This paper proposes a pipeline(claim decomposition, multi-granularity evidence retrieval, claim-focused summarization) to improve veracity judgments.
-*     [2023/04] **The Internal State of an LLM Knows When its Lying** [[paper](http://arxiv.org/abs/2304.13734)]
+*  [2023/04] **The Internal State of an LLM Knows When its Lying** [[paper](http://arxiv.org/abs/2304.13734)]
       > This paper utilizes the LLM's hidden layer activations to determine the veracity of statements by a classifier receiveing as input the activation values from the LLM for each of the statements in the dataset.
 
 
