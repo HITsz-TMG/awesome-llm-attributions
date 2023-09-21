@@ -38,9 +38,10 @@
 ## 3. Sources of Attribution
 
 ### 3.1 Pre-training Data
-*   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
-* The ROOTS Search Tool: Data Transparency for LLMs
-* ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data
+* [2023/02] **The ROOTS Search Tool: Data Transparency for LLMs** *Aleksandra Piktus et al. arXiv.* [[paper](https://arxiv.org/pdf/2302.14035.pdf)]
+* [2022/05] **ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data** *Xiaochuang Han et al. arXiv.* [[paper](https://arxiv.org/pdf/2205.12600.pdf)]
+
+* [2022/05] **Understanding In-Context Learning via Supportive Pretraining Data** *Xiaochuang Han et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.15091.pdf)]
 ### 3.2 Out-of-model Knowledge
 
 
@@ -81,8 +82,8 @@
 
 ### 5.4 Attribution Systems & End-to-End Attribution Models
 
-
-*  WebGPT
+* [2022/03] **LaMDA: Language Models for Dialog Applications**  [[paper](https://arxiv.org/pdf/2201.08239.pdf)]
+*  [2022/03] **WebGPT: Browser-assisted question-answering with human feedback**  [[paper](https://arxiv.org/pdf/2112.09332.pdf)]
 *  [2022/03] **GopherCite - Teaching language models to support answers with verified quotes**  [[paper](http://arxiv.org/abs/2203.11147)]
 
 ## 6. Attribution Evaluation
