@@ -22,7 +22,11 @@
 
 ## 3. Sources of Attribution
 
+### 3.1 Pre-training Data
 *   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
+
+### 3.2 Out-of-model Knowledge
+
 
 ## 4. Datasets for Attribution
 * [2023/07] **HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution** *Ehsan Kamalloo et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.16883.pdf)] [[code](https://github.com/project-miracl/hagrid)]
