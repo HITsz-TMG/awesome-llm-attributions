@@ -26,14 +26,20 @@
 
 ## 2. Attribution Paper Before the Era of Large Language Models 
 
-*   [2021/05] **Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark** *Nouha Dziri et al. TACL'22* [[paper](https://aclanthology.org/2022.tacl-1.62/)][[code](https://github.com/google/BEGIN-dataset)]
 
+
+
+
+
+
+### 2.1 Fact Checking
 *   [2021/10] **Truthful AI: Developing and governing AI that does not lie** [[paper](http://arxiv.org/abs/2110.06674)]
 
+### 2.2 Claim Verificication
+*   [2021/05] **Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark** *Nouha Dziri et al. TACL'22* [[paper](https://aclanthology.org/2022.tacl-1.62/)][[code](https://github.com/google/BEGIN-dataset)]
+
+### 2.3 Feature Attribution and Interpretability of Models for NLP 
 *   [2022/12] **Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI** *Alex Mei et al. findings of ACL'22* [[paper](https://aclanthology.org/2023.findings-acl.701.pdf)]
-
-
-
 
 ## 3. Sources of Attribution
 
