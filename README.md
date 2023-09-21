@@ -10,14 +10,11 @@
 
 
 ## Attribution Definition & Position Paper
-*  [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)] 
+*   [2023/07] **Citation: A Key to Building Responsible and Accountable Large Language Models** *Jie Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.02185.pdf)] 
+      > This position paper embarks on an exploratory journey into the potential of integrating a citation mechanism within large language models, examining its prospective benefits, the inherent technical obstacles, and foreseeable pitfalls.
 
-   > This paper balabala ...
-   > ...
 
-*  [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)] 
-
-## Attribution Before Large Language Models
+## Attribution Paper Before the Era of Large Language Models 
 
 *   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
 
@@ -26,9 +23,14 @@
 *   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
 
 ## Datasets for Attribution
-* HAGRID
-* ALCE
-* ExpertQA: Expert-Curated Questions and Attributed Answers
+* [2023/07] **HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution** *Ehsan Kamalloo et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.16883.pdf)] [[code](https://github.com/project-miracl/hagrid)]
+   > This paper introduces the HAGRID dataset for building end-to-end generative information-seeking models that are capable of retrieving candidate quotes and generating attributed explanations.
+
+* [2023/05] **Enabling Large Language Models to Generate Text with Citations** *Tianyu Gao et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.14627.pdf)] [[code](https://github.com/princeton-nlp/ALCE)]
+   > This paper proposes ALCE dataset, which collects a diverse set of questions and retrieval corpora and requires building end-to-end systems to retrieve supporting evidence and generate answers with citations.
+
+* [2023/09] **EXPERTQA : Expert-Curated Questions and Attributed Answers** *Chaitanya Malaviya et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.07852.pdf)] [[code](https://github.com/chaitanyamalaviya/expertqa)]
+   > This paper introduces the EXPERTQA, a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with verified answers and attributions for claims in the answers. 
 
 ## Approaches to Attribution
 
@@ -41,7 +43,6 @@
 *  GopherCite
 
 ## Attribution Evaluation
-*   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
 *   [2023/05] **Automatic Evaluation of Attribution by Large Language Models.** *X Yue et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.06311.pdf)] [[code](https://github.com/OSU-NLP-Group/AttrScore)]
       > This paper investigate the automatic evaluation of attribution by LLMs, by providing a definition of attribution and then explore two approaches for automatic evaluation. The results highlight both promising signals as well as remaining challenges for the automatic evaluation of attribution.
 *   [2022/12] **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models.** *B Bohnet et al. arXiv.* [[paper](https://arxiv.org/pdf/2212.08037.pdf)] [[code](https://github.com/google-research-datasets/Attributed-QA)]
