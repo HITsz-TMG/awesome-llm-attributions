@@ -73,7 +73,7 @@ Open-domain dialogue systems, driven by large language models, have changed the 
    ```-->
 
 
-## 5 Approaches to Attribution
+## 5. Approaches to Attribution
 
 ### 5.1 Direct Generated Attribution
 
