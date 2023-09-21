@@ -10,8 +10,11 @@
 
 
 ## 1. Attribution Definition & Position Paper
+*   [2021/07] **Rethinking Search: Making Domain Experts out of Dilettantes** *Donald Metzler et al. arXiv.* [[paper](https://arxiv.org/pdf/2105.02274.pdf)] 
+      > This position paper says "For example, for question answering tasks our envisioned model is able to synthesize a singleanswer that incorporates information from many documents in the corpus, and it will be able to support assertions in the answer by referencing supporting evidence in the corpus, much like a properly crafted Wikipedia entry supports each assertion of fact with a link to a primary source. This is just one of many novel tasks that this type of model has the potential to enable."
 *   [2023/07] **Citation: A Key to Building Responsible and Accountable Large Language Models** *Jie Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.02185.pdf)] 
       > This position paper embarks on an exploratory journey into the potential of integrating a citation mechanism within large language models, examining its prospective benefits, the inherent technical obstacles, and foreseeable pitfalls.
+*
 
 ## 2. Attribution Paper Before the Era of Large Language Models 
 
