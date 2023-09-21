@@ -9,20 +9,19 @@
 相比于文本幻象的survey, 我们的出发点是更细化地偏向于事实归因的调研，包括当前事实归因的来源、事实归因的技术方法、事实归因的评价、事实归因的数据集，事实归因的有限性 （无法对模型参数知识进行归因、知识来源的正确与否：可能来自于未经验证的内容，也有可能来自于之前大模型生成的内容、过度归因导致信息过载和敏感信息传播风险、事实归因的偏见：过分喜欢某个来源或观点） （要补充）。本调研不关心内部幻象的检测与改进。另外，考虑到检索的来源可能本身是不正确的，相比于最终模型输出的事实正确性，本研究更关注于事实归因的忠实度。通过事实归因，模型的输出有了来源，减少了生成内容的不确定性，提升了生成内容的事实性、可验证性与可解释性，从而增加系统的可信性和可靠性。
 
 
-## Attribution Definition & Position Paper
+## 1. Attribution Definition & Position Paper
 *   [2023/07] **Citation: A Key to Building Responsible and Accountable Large Language Models** *Jie Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.02185.pdf)] 
       > This position paper embarks on an exploratory journey into the potential of integrating a citation mechanism within large language models, examining its prospective benefits, the inherent technical obstacles, and foreseeable pitfalls.
 
-
-## Attribution Paper Before the Era of Large Language Models 
-
-*   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
-
-## Sources of Attribution
+## 2. Attribution Paper Before the Era of Large Language Models 
 
 *   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
 
-## Datasets for Attribution
+## 3. Sources of Attribution
+
+*   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
+
+## 4. Datasets for Attribution
 * [2023/07] **HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution** *Ehsan Kamalloo et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.16883.pdf)] [[code](https://github.com/project-miracl/hagrid)]
    > This paper introduces the HAGRID dataset for building end-to-end generative information-seeking models that are capable of retrieving candidate quotes and generating attributed explanations.
 
@@ -32,21 +31,30 @@
 * [2023/09] **EXPERTQA : Expert-Curated Questions and Attributed Answers** *Chaitanya Malaviya et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.07852.pdf)] [[code](https://github.com/chaitanyamalaviya/expertqa)]
    > This paper introduces the EXPERTQA, a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with verified answers and attributions for claims in the answers. 
 
-## Approaches to Attribution
+## 5 Approaches to Attribution
+
+### 5.1 Direct Generated Attribution
+
+### 5.2 Retrieval-then-Answering
+
+### 5.3 Post-Generation Attribution
+* RARR: Researching and Revising What Language Models Say, Using Language Models
 
 
-## Attribution Systems & End-to-End Attribution Models
+### 5.4 Attribution Systems & End-to-End Attribution Models
 
 
 *  [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
 *  WebGPT
-*  GopherCite
+*  GopherCite - Teaching language models to support answers with verified quotes
 
-## Attribution Evaluation
+## 6. Attribution Evaluation
 *   [2023/05] **Automatic Evaluation of Attribution by Large Language Models.** *X Yue et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.06311.pdf)] [[code](https://github.com/OSU-NLP-Group/AttrScore)]
       > This paper investigate the automatic evaluation of attribution by LLMs, by providing a definition of attribution and then explore two approaches for automatic evaluation. The results highlight both promising signals as well as remaining challenges for the automatic evaluation of attribution.
 *   [2022/12] **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models.** *B Bohnet et al. arXiv.* [[paper](https://arxiv.org/pdf/2212.08037.pdf)] [[code](https://github.com/google-research-datasets/Attributed-QA)]
 *   [2021/12] **Measuring Attribution in Natural Language Generation Models.** *H Rashkin et al. CL.* [[paper](https://arxiv.org/pdf/2112.12870.pdf)]
       > This paper presents a new evaluation framework entitled Attributable to Identified Sources (AIS) for assessing the output of natural language generation models.
+* Evaluating Verifiability in Generative Search Engines
 
-## Limitations, Future Directions and Challenges in Fact Attribution.
+
+## 7. Limitations, Future Directions and Challenges in Fact Attribution.
