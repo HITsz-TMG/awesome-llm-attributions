@@ -33,6 +33,8 @@
 
 
 ### 2.1 Fact Checking
+*   [2021/08] **A Survey on Automated Fact-Checking** [[paper](https://arxiv.org/pdf/2108.11896.pdf)]
+
 *   [2021/10] **Truthful AI: Developing and governing AI that does not lie** [[paper](http://arxiv.org/abs/2110.06674)]
 
 ### 2.2 Claim Verificication
