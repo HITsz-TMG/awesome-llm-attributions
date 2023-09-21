@@ -30,12 +30,6 @@ However, these systems often produce content that might not be reliable. In this
 
 ## 2. Attribution Paper Before the Era of Large Language Models 
 
-
-
-
-
-
-
 ### 2.1 Fact Checking & Claim Verificication
 *   [2021/08] **A Survey on Automated Fact-Checking**  *Zhijiang Guo et al. TACL'22*  [[paper](https://arxiv.org/pdf/2108.11896.pdf)]
 
@@ -149,6 +143,6 @@ However, these systems often produce content that might not be reliable. In this
 
 ## Project Maintainers & Contributors
 - Dongfang Li 
-- Zetian Su
+- Zetian Sun
 - Xinshuo Hu
 - Zhenyu Liu
