@@ -89,7 +89,9 @@
 ### 5.4 Attribution Systems & End-to-End Attribution Models
 
 * [2022/03] **LaMDA: Language Models for Dialog Applications**  [[paper](https://arxiv.org/pdf/2201.08239.pdf)]
+
 *  [2022/03] **WebGPT: Browser-assisted question-answering with human feedback**  [[paper](https://arxiv.org/pdf/2112.09332.pdf)]
+
 *  [2022/03] **GopherCite - Teaching language models to support answers with verified quotes**  [[paper](http://arxiv.org/abs/2203.11147)]
 
 ## 6. Attribution Evaluation
