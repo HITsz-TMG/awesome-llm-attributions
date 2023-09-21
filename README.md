@@ -8,6 +8,7 @@
 
 相比于文本幻象的survey, 我们的出发点是更细化地偏向于事实归因的调研，包括当前事实归因的来源、事实归因的技术方法、事实归因的评价、事实归因的数据集，事实归因的有限性 （无法对模型参数知识进行归因、知识来源的正确与否：可能来自于未经验证的内容，也有可能来自于之前大模型生成的内容、过度归因导致信息过载和敏感信息传播风险、事实归因的偏见：过分喜欢某个来源或观点） （要补充）。本调研不关心内部幻象的检测与改进。另外，考虑到检索的来源可能本身是不正确的，相比于最终模型输出的事实正确性，本研究更关注于事实归因的忠实度。通过事实归因，模型的输出有了来源，减少了生成内容的不确定性，提升了生成内容的事实性、可验证性与可解释性，从而增加系统的可信性和可靠性。
 
+归因也可能是迫不得已的中间手段，因为精确解释LLM行为的尝试都注定过于复杂，难以为任何人所理解，所以人们期望像搜索引擎的方式去对待大模型，一方面希望它能精确全面的告诉我们相关信息，另一方面又希望它告诉我们的信息有据可查。
 
 ## 1. Attribution Definition & Position Paper
 *   [2021/07] **Rethinking Search: Making Domain Experts out of Dilettantes** *Donald Metzler et al. arXiv.* [[paper](https://arxiv.org/pdf/2105.02274.pdf)] 
@@ -24,7 +25,8 @@
 
 ### 3.1 Pre-training Data
 *   [2023/0X] **XXXX.** *XXX et al. arXiv.* [[paper](https://XXX)]
-
+* The ROOTS Search Tool: Data Transparency for LLMs
+* ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data
 ### 3.2 Out-of-model Knowledge
 
 
