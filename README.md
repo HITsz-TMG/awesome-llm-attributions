@@ -1,6 +1,9 @@
 # A Survey of Attributions for Large Language Models
 
-Open-domain dialogue systems, driven by large language models, have changed the way we use conversational AI. However, these systems often produce content that might not be reliable. In this repo, we focus on summarizing where these systems get their facts from, a process known as attribution or citation. We look at where the facts come from, how they are used by the models, how well these methods work, and datasets and challenges like unclear knowledge sources, biases, and over-attribution.
+## 🌟 Introduction
+
+Open-domain dialogue systems, driven by large language models, have changed the way we use conversational AI. 
+However, these systems often produce content that might not be reliable. In this repo, we focus on summarizing where these systems get their facts from, a process known as attribution or citation. We look at where the facts come from, how they are used by the models, how well these methods work, and datasets and challenges like unclear knowledge sources, biases, and over-attribution.
 
 ## 1. Attribution Definition & Position Paper
 *   [2021/07] **Rethinking Search: Making Domain Experts out of Dilettantes** *Donald Metzler et al. arXiv.* [[paper](https://arxiv.org/pdf/2105.02274.pdf)] 
@@ -140,6 +143,12 @@ Open-domain dialogue systems, driven by large language models, have changed the 
 ***For finding survey of hallucination please refer to:***
 
 - Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models
-- Cognitive Mirage: A Review of Hallucinations in Large Language Models  §5 Hallucination Correction 
+- Cognitive Mirage: A Review of Hallucinations in Large Language Models
 - A Survey of Hallucination in Large Foundation Models
-`
+
+
+## Project Maintainers & Contributors
+- Dongfang Li 
+- Zetian Su
+- Xinshuo Hu
+- Zhenyu Liu
