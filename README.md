@@ -150,17 +150,16 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 ## 7. Limitations, Future Directions and Challenges in Attribution
 
-      a. hallucination of fact attribution
-      b. Inability to attribute  parameter knowledge of model self
-      c. Validity of the knowledge source, some evidence may be wrong
-      d. Bias in attribution method
-      e. Over-attribution & under-attribution
+#### a. hallucination of fact attribution
+#### b. Inability to attribute parameter knowledge of model self
+#### c. Validity of the knowledge source, some evidence may be wrong
+#### d. Bias in attribution method
+#### e. Over-attribution & under-attribution
+#### f. Knowledge conflict
 
-***For finding survey of hallucination please refer to:***
+--- 
 
-- Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models
-- Cognitive Mirage: A Review of Hallucinations in Large Language Models
-- A Survey of Hallucination in Large Foundation Models
+
 
 ## Cite
 
@@ -172,9 +171,14 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
   howpublished={\url{https://github.com/HITsz-TMG/awesome-llm-attributions}},
 }
 ```
+***For finding survey of hallucination please refer to:***
 
+- Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models
+- Cognitive Mirage: A Review of Hallucinations in Large Language Models
+- A Survey of Hallucination in Large Foundation Models
 ## Project Maintainers & Contributors
 - [Dongfang Li](http://crazyofapple.github.io/)
 - Zetian Sun
 - Xinshuo Hu
 - Zhenyu Liu
+
