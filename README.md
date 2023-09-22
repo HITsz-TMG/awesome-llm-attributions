@@ -29,7 +29,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 
 
-## 2. Attribution Paper Before the Era of Large Language Models 
+## 2. Attribution Paper Before the Era of Large Language Models and Related Work
 
 ### 2.1 Fact Checking & Claim Verificication & Natural Language Inference
 
