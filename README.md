@@ -23,10 +23,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
       This position paper embarks on an exploratory journey into the potential of integrating a citation mechanism within large language models, examining its prospective benefits, the inherent technical obstacles, and foreseeable pitfalls.
       ```-->
 
-*   [2023/09] **ChatGPT Hallucinates when Attributing Answers** *Guido Zuccon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09401)]
-      <!--```
-      This paper suggests that ChatGPT provides correct or partially correct answers in about half of the cases (50.6% of the times), but its suggested references only exist 14% of the times. In thoses referenced answers, the reference often does not support the claims ChatGPT attributes to it.
-      ```-->
+
 
 
 
@@ -75,8 +72,13 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 ## 5. Approaches to Attribution
 
 ### 5.1 Direct Generated Attribution
-
+*   [2023/09] **ChatGPT Hallucinates when Attributing Answers** *Guido Zuccon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09401)]
+      <!--```
+      This paper suggests that ChatGPT provides correct or partially correct answers in about half of the cases (50.6% of the times), but its suggested references only exist 14% of the times. In thoses referenced answers, the reference often does not support the claims ChatGPT attributes to it.
+      ```-->
 ### 5.2 Retrieval-then-Answering
+
+*  [2023/04] **Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks** *Shicheng Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.14732.pdf)]
 
 ### 5.3 Post-Generation Attribution
 
