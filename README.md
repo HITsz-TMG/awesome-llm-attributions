@@ -162,6 +162,16 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 - Cognitive Mirage: A Review of Hallucinations in Large Language Models
 - A Survey of Hallucination in Large Foundation Models
 
+## Cite
+
+```
+@misc{llmattribution2023,
+  title={A Survey of Attributions for Large Language Models},
+  author={Dongfang Li, Zetian Sun, Xinshuo Hu, Zhenyu Liu},
+  year={2023},
+  howpublished={\url{https://github.com/HITsz-TMG/awesome-llm-attributions}},
+}
+```
 
 ## Project Maintainers & Contributors
 - [Dongfang Li](http://crazyofapple.github.io/)
