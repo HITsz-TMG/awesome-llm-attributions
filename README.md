@@ -1,7 +1,5 @@
 # A Survey of Attributions for Large Language Models
 
-
-
 ## ðŸŒŸ Introduction
 
 Open-domain dialogue systems, driven by large language models, have changed the way we use conversational AI. 
@@ -11,7 +9,7 @@ However, in traditional open-domain settings, the focus is mostly on the answerâ
 
 Attribution refers to the capacity of a model, such as an LLM, to generate and provide evidence, often in the form of references or citations, that substantiates the claims or statements it produces. This evidence is derived from identifiable sources, ensuring that the claims can be logically inferred from a foundational corpus, making them comprehensible and verifiable by a general audience. The primary purposes of attribution include enabling users to validate the claims made by the model, promoting the generation of text that closely aligns with the cited sources to enhance accuracy and reduce misinformation or hallucination, and establishing a structured framework for evaluating the completeness and relevance of the supporting evidence in relation to the presented claims.
 
---- 
+---
 
 ## 1. Attribution Definition & Position Paper
 *   [2021/07] **Rethinking Search: Making Domain Experts out of Dilettantes** *Donald Metzler et al. arXiv.* [[paper](https://arxiv.org/pdf/2105.02274.pdf)] 
