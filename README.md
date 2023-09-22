@@ -51,6 +51,9 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 * [2022/05] **ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data** *Xiaochuang Han et al. arXiv.* [[paper](https://arxiv.org/pdf/2205.12600.pdf)]
 
 * [2022/05] **Understanding In-Context Learning via Supportive Pretraining Data** *Xiaochuang Han et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.15091.pdf)]
+
+* [2022/07] [link the fine-tuned LLM to its pre-trained base model]  **Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models** *Myles Foley et al. ACL 2023.* [[paper](https://aclanthology.org/2023.acl-long.410.pdf)]
+
 ### 3.2 Out-of-model Knowledge and Retrieval-based Question Answering & Knowledge-Grounded Dialogue
 
 * [2021/04] **Retrieval augmentation reduces hallucination in conversation** *Kurt Shuster et al. arXiv.* [[paper](https://arxiv.org/pdf/2104.07567.pdf)]
