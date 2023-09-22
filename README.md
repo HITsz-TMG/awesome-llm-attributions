@@ -164,7 +164,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 
 ## Project Maintainers & Contributors
-- Dongfang Li 
+- [Dongfang Li](http://crazyofapple.github.io/)
 - Zetian Sun
 - Xinshuo Hu
 - Zhenyu Liu
