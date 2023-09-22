@@ -53,6 +53,7 @@ However, these systems often produce content that might not be reliable. In this
 ## 4. Datasets for Attribution
 * [2022/12] **CiteBench: A benchmark for Scientific Citation Text Generation** *Martin Funkquist et al. arXiv.* [[paper](https://arxiv.org/abs/2212.09577)]
 
+* [2023/04] **WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus** *Hongjing Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.04358.pdf)] [[code](https://github.com/qhjqhj00/WebBrain)]
 
 * [2023/05] **Enabling Large Language Models to Generate Text with Citations** *Tianyu Gao et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.14627.pdf)] [[code](https://github.com/princeton-nlp/ALCE)]
    <!--```
