@@ -58,6 +58,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 * [2021/12] **Improving language models by retrieving from trillions of tokens** *Sebastian Borgeaud et al. arXiv.* [[paper](https://arxiv.org/pdf/2112.04426.pdf)]
 
+* [2022/12] **Rethinking with Retrieval: Faithful Large Language Model Inference**  *Hangfeng He et al. arXiv.* [[paper](https://arxiv.org/pdf/2301.00303.pdf)] 
 
 ## 4. Datasets for Attribution
 * [2022/12] **CiteBench: A benchmark for Scientific Citation Text Generation** *Martin Funkquist et al. arXiv.* [[paper](https://arxiv.org/abs/2212.09577)]
@@ -150,12 +151,12 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 ## 7. Limitations, Future Directions and Challenges in Attribution
 
-#### a. hallucination of fact attribution
-#### b. Inability to attribute parameter knowledge of model self
-#### c. Validity of the knowledge source, some evidence may be wrong
-#### d. Bias in attribution method
-#### e. Over-attribution & under-attribution
-#### f. Knowledge conflict
+      a. hallucination of fact attribution
+      b. Inability to attribute parameter knowledge of model self
+      c. Validity of the knowledge source, some evidence may be wrong
+      d. Bias in attribution method
+      e. Over-attribution & under-attribution
+      f. Knowledge conflict
 
 --- 
 
