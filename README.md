@@ -29,7 +29,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 
 
-## 2. Attribution Paper Before the Era of Large Language Models and Related Work
+## 2. Attribution Paper Before the Era of Large Language Models and Related Task
 
 ### 2.1 Fact Checking & Claim Verificication & Natural Language Inference
 
@@ -128,6 +128,8 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 *  [2022/09] **Improving alignment of dialogue agents via targeted human judgements**  *Amelia Glaese  et al. arXiv.* [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
 
+* [2023/05] **WebCPM: Interactive Web Search for Chinese Long-form Question Answering** *Yujia Qin et al. arXiv.*  [[paper](https://arxiv.org/pdf/2305.06849.pdf)]
+
 ## 6. Attribution Evaluation
 *   [2021/12] **Measuring Attribution in Natural Language Generation Models.** *H Rashkin et al. CL.* [[paper](https://arxiv.org/pdf/2112.12870.pdf)]
       <!--```
@@ -154,7 +156,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
       a. hallucination of fact attribution
       b. Inability to attribute parameter knowledge of model self
-      c. Validity of the knowledge source, some evidence may be wrong
+      c. Validity of the knowledge source, some evidence may be wrong - source trustworthiness
       d. Bias in attribution method
       e. Over-attribution & under-attribution
       f. Knowledge conflict
