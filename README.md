@@ -5,6 +5,8 @@
 Open-domain dialogue systems, driven by large language models, have changed the way we use conversational AI. 
 However, these systems often produce content that might not be reliable. In this repo, we focus on summarizing where these systems get their facts from, a process known as attribution or citation. We look at where the facts come from, how they are used by the models, how well these methods work, and datasets and challenges like unclear knowledge sources, biases, and over-attribution.
 
+However, in traditional open-domain settings, the focus is mostly on the answer’s relevance or accuracy rather than evaluating whether the answer is attributed to the retrieved documents. Previous work (Bohnet et al., 2022) also highlights that a QA model with high accuracy may not necessarily achieve high attribution.
+
 Attribution refers to the capacity of a model, such as an LLM, to generate and provide evidence, often in the form of references or citations, that substantiates the claims or statements it produces. This evidence is derived from identifiable sources, ensuring that the claims can be logically inferred from a foundational corpus, making them comprehensible and verifiable by a general audience. The primary purposes of attribution include enabling users to validate the claims made by the model, promoting the generation of text that closely aligns with the cited sources to enhance accuracy and reduce misinformation or hallucination, and establishing a structured framework for evaluating the completeness and relevance of the supporting evidence in relation to the presented claims.
 
 ## 1. Attribution Definition & Position Paper
@@ -29,7 +31,9 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 ## 2. Attribution Paper Before the Era of Large Language Models 
 
-### 2.1 Fact Checking & Claim Verificication
+### 2.1 Fact Checking & Claim Verificication & Natural Language Inference
+
+
 *   [2021/08] **A Survey on Automated Fact-Checking**  *Zhijiang Guo et al. TACL'22*  [[paper](https://arxiv.org/pdf/2108.11896.pdf)]
 
 *   [2021/10] **Truthful AI: Developing and governing AI that does not lie** *Owain Evans et al. arXiv* [[paper](http://arxiv.org/abs/2110.06674)]
@@ -46,7 +50,13 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 * [2022/05] **ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data** *Xiaochuang Han et al. arXiv.* [[paper](https://arxiv.org/pdf/2205.12600.pdf)]
 
 * [2022/05] **Understanding In-Context Learning via Supportive Pretraining Data** *Xiaochuang Han et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.15091.pdf)]
-### 3.2 Out-of-model Knowledge
+### 3.2 Out-of-model Knowledge and Retrieval-based Question Answering
+
+* [2021/04] **Retrieval augmentation reduces hallucination in conversation** *Kurt Shuster et al. arXiv.* [[paper](https://arxiv.org/pdf/2104.07567.pdf)]
+
+* [2020/07] **Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering** *Gautier Izacard et al. arXiv.* [[paper](https://arxiv.org/pdf/2007.01282.pdf)]
+
+* [2021/12] **Improving language models by retrieving from trillions of tokens** *Sebastian Borgeaud et al. arXiv.* [[paper](https://arxiv.org/pdf/2112.04426.pdf)]
 
 
 ## 4. Datasets for Attribution
@@ -63,6 +73,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
    <!--```
    This paper introduces the HAGRID dataset for building end-to-end generative information-seeking models that are capable of retrieving candidate quotes and generating attributed explanations.
    ```-->
+
 * [2023/09] **EXPERTQA : Expert-Curated Questions and Attributed Answers** *Chaitanya Malaviya et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.07852.pdf)] [[code](https://github.com/chaitanyamalaviya/expertqa)]
    <!--```
    This paper introduces the EXPERTQA, a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with verified answers and attributions for claims in the answers. 
@@ -72,10 +83,14 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 ## 5. Approaches to Attribution
 
 ### 5.1 Direct Generated Attribution
+*  [2023/07] **Credible Without Credit: Domain Experts Assess Generative Language Models** *Denis Peskoff et al. ACL 2023.* [[paper](https://aclanthology.org/2023.acl-short.37/)]
+
 *   [2023/09] **ChatGPT Hallucinates when Attributing Answers** *Guido Zuccon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09401)]
       <!--```
       This paper suggests that ChatGPT provides correct or partially correct answers in about half of the cases (50.6% of the times), but its suggested references only exist 14% of the times. In thoses referenced answers, the reference often does not support the claims ChatGPT attributes to it.
       ```-->
+*    [2023/09] **Towards Reliable and Fluent Large Language Models: Incorporating Feedback Learning Loops in QA Systems** *Dongyub Lee et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.06384.pdf)]
+
 ### 5.2 Retrieval-then-Answering
 
 *  [2023/04] **Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks** *Shicheng Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.14732.pdf)]
@@ -109,13 +124,15 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 *  [2022/03] **GopherCite - Teaching language models to support answers with verified quotes**  *Jacob Menick  et al. arXiv.* [[paper](http://arxiv.org/abs/2203.11147)]
 
+*  [2022/09] **Improving alignment of dialogue agents via targeted human judgements**  *Amelia Glaese  et al. arXiv.* [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
+
 ## 6. Attribution Evaluation
 *   [2021/12] **Measuring Attribution in Natural Language Generation Models.** *H Rashkin et al. CL.* [[paper](https://arxiv.org/pdf/2112.12870.pdf)]
       <!--```
       This paper presents a new evaluation framework entitled Attributable to Identified Sources (AIS) for assessing the output of natural language generation models.
       ```-->
 *   [2022/12] **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models.** *B Bohnet et al. arXiv.* [[paper](https://arxiv.org/pdf/2212.08037.pdf)] [[code](https://github.com/google-research-datasets/Attributed-QA)]
-*   [2023/04] **Evaluating Verifiability in Generative Search Engines** *Nelson F. Liu et al. arXiv.* [[paper](http://arxiv.org/abs/2304.09848)]
+*   [2023/04] **Evaluating Verifiability in Generative Search Engines** *Nelson F. Liu et al. arXiv.* [[paper](http://arxiv.org/abs/2304.09848)] [[annonated data](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)] 
 
 *   [2023/05] **Evaluating and Modeling Attribution for Cross-Lingual Question Answering** *Benjamin Muller et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14332)]
 *   [2023/05] **FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation** *Sewon Min et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14251)] [[code](https://github.com/shmsw25/FActScore)]
