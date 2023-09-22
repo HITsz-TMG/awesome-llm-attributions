@@ -43,6 +43,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 ### 2.2 Feature Attribution and Interpretability of Models for NLP 
 *   [2022/12] **Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI** *Alex Mei et al. findings of ACL'22* [[paper](https://aclanthology.org/2023.findings-acl.701.pdf)]
 
+### 
 ## 3. Sources of Attribution
 
 ### 3.1 Pre-training Data
@@ -50,7 +51,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 * [2022/05] **ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data** *Xiaochuang Han et al. arXiv.* [[paper](https://arxiv.org/pdf/2205.12600.pdf)]
 
 * [2022/05] **Understanding In-Context Learning via Supportive Pretraining Data** *Xiaochuang Han et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.15091.pdf)]
-### 3.2 Out-of-model Knowledge and Retrieval-based Question Answering
+### 3.2 Out-of-model Knowledge and Retrieval-based Question Answering & Knowledge-Grounded Dialogue
 
 * [2021/04] **Retrieval augmentation reduces hallucination in conversation** *Kurt Shuster et al. arXiv.* [[paper](https://arxiv.org/pdf/2104.07567.pdf)]
 
