@@ -51,6 +51,10 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 * [2017/06] **A unified view of gradient-based attribution methods for Deep Neural Networks.** *Marco Ancona et al. arXiv.* [[paper](http://www.interpretable-ml.org/nips2017workshop/papers/02.pdf)]
 
+* [2021/03] **Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI.** *Andreas Holzinger et al. arXiv.* [[paper](https://featurecloud.eu/wp-content/uploads/2021/03/Holzinger-et-al_2021_Towards-multi-model-causability.pdf)]
+
+* [2023/07] **Improving Explainability of Disentangled Representations using Multipath-Attribution Mappings.** *Lukas Klein et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.09035.pdf)]
+
 * [2023/07] **Visual Explanations of Image-Text Representations via Mult-Modal Information Bottleneck Attribution.** *Ying Wang et al. arXiv.* [[paper](https://openreview.net/pdf?id=enSkaeByTE)]
 
 * [2023/07] **MAEA: Multimodal Attribution for Embodied AI.** *Vidhi Jain et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.13850.pdf)]
