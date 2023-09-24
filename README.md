@@ -48,7 +48,21 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 ### 2.2 Feature Attribution and Interpretability of Models for NLP 
 *   [2022/12] **Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI** *Alex Mei et al. findings of ACL'22* [[paper](https://aclanthology.org/2023.findings-acl.701.pdf)]
 
-### 
+### 2.3 Attribution in Mutli-modal Systems
+
+* [2017/06] **A unified view of gradient-based attribution methods for Deep Neural Networks.** *Marco Ancona et al. arXiv.* [[paper](http://www.interpretable-ml.org/nips2017workshop/papers/02.pdf)]
+
+* [2021/03] **Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI.** *Andreas Holzinger et al. arXiv.* [[paper](https://featurecloud.eu/wp-content/uploads/2021/03/Holzinger-et-al_2021_Towards-multi-model-causability.pdf)]
+
+* [2023/07] **Improving Explainability of Disentangled Representations using Multipath-Attribution Mappings.** *Lukas Klein et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.09035.pdf)]
+
+* [2023/07] **Visual Explanations of Image-Text Representations via Mult-Modal Information Bottleneck Attribution.** *Ying Wang et al. arXiv.* [[paper](https://openreview.net/pdf?id=enSkaeByTE)]
+
+* [2023/07] **MAEA: Multimodal Attribution for Embodied AI.** *Vidhi Jain et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.13850.pdf)]
+
+
+
+
 ## 3. Sources of Attribution
 
 ### 3.1 Pre-training Data
@@ -128,15 +142,18 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 ### 5.4 Attribution Systems & End-to-End Attribution Models
 
-* [2022/03] **LaMDA: Language Models for Dialog Applications** *Romal Thoppilan et al. arXiv.* [[paper](https://arxiv.org/pdf/2201.08239.pdf)]
+* [2022/03] **LaMDA: Language Models for Dialog Applications.** *Romal Thoppilan et al. arXiv.* [[paper](https://arxiv.org/pdf/2201.08239.pdf)]
 
-*  [2022/03] **WebGPT: Browser-assisted question-answering with human feedback** *Reiichiro Nakano, Jacob Hilton, Suchir Balaji et al. arXiv.*[[paper](https://arxiv.org/pdf/2112.09332.pdf)]
+*  [2022/03] **WebGPT: Browser-assisted question-answering with human feedback.** *Reiichiro Nakano, Jacob Hilton, Suchir Balaji et al. arXiv.*[[paper](https://arxiv.org/pdf/2112.09332.pdf)]
 
-*  [2022/03] **GopherCite - Teaching language models to support answers with verified quotes**  *Jacob Menick  et al. arXiv.* [[paper](http://arxiv.org/abs/2203.11147)]
+*  [2022/03] **GopherCite - Teaching language models to support answers with verified quotes.**  *Jacob Menick  et al. arXiv.* [[paper](http://arxiv.org/abs/2203.11147)]
 
-*  [2022/09] **Improving alignment of dialogue agents via targeted human judgements**  *Amelia Glaese  et al. arXiv.* [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
+*  [2022/09] **Improving alignment of dialogue agents via targeted human judgements.**  *Amelia Glaese  et al. arXiv.* [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
 
-* [2023/05] **WebCPM: Interactive Web Search for Chinese Long-form Question Answering** *Yujia Qin et al. arXiv.*  [[paper](https://arxiv.org/pdf/2305.06849.pdf)]
+* [2023/05] **WebCPM: Interactive Web Search for Chinese Long-form Question Answering.** *Yujia Qin et al. arXiv.*  [[paper](https://arxiv.org/pdf/2305.06849.pdf)]
+
+
+
 
 ## 6. Attribution Evaluation
 
