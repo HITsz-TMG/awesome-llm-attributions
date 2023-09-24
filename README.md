@@ -37,6 +37,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 ### 2.1 Fact Checking & Claim Verificication & Natural Language Inference
 
+*   [2021/11] **The Fact Extraction and VERification (FEVER) Shared Task**  *James Thorne et al. EMNLP'18* [[paper](https://aclanthology.org/W18-5501v3.pdf)]
 
 *   [2021/08] **A Survey on Automated Fact-Checking**  *Zhijiang Guo et al. TACL'22*  [[paper](https://arxiv.org/pdf/2108.11896.pdf)]
 
@@ -118,7 +119,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
       <!--```
       This paper proposes a pipeline(claim decomposition, multi-granularity evidence retrieval, claim-focused summarization) to improve veracity judgments.
       ```-->
-*  [2023/06] **Retrieving Supporting Evidence for LLMs Generated Answers** *Siqing Huo et al. arXiv.*  [[paper](http://arxiv.org/abs/2306.13781)]
+*  [2023/06] **Retrieving Supporting Evidence for LLMs Generated Answers** *Siqing Huo et al. arXiv.*  [[paper](https://arxiv.org/pdf/2309.11392.pdf)]
       <!--```
       This paper proposes a two-step verification. The LLM's answer and the retrieved document queried by question and LLM's answer are compared by LLM, checking whether the LLM's answer is hallucinated.
       ```-->
@@ -138,6 +139,11 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 * [2023/05] **WebCPM: Interactive Web Search for Chinese Long-form Question Answering** *Yujia Qin et al. arXiv.*  [[paper](https://arxiv.org/pdf/2305.06849.pdf)]
 
 ## 6. Attribution Evaluation
+
+WICE: Real-World Entailment for Claims in Wikipedia
+
+Improving Wikipedia Verifiability with AI https://arxiv.org/pdf/2207.06220.pdf
+
 *   [2021/12] **Measuring Attribution in Natural Language Generation Models.** *H Rashkin et al. CL.* [[paper](https://arxiv.org/pdf/2112.12870.pdf)]
       <!--```
       This paper presents a new evaluation framework entitled Attributable to Identified Sources (AIS) for assessing the output of natural language generation models.
@@ -161,9 +167,9 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 ## 7. Limitations, Future Directions and Challenges in Attribution
 
-      a. hallucination of fact attribution
-      b. Inability to attribute parameter knowledge of model self
-      c. Validity of the knowledge source, some evidence may be wrong - source trustworthiness
+      a. hallucination of attribution i.e. does attribution faithfully to its content?
+      b. Inability to attribute parameter knowledge of model self.
+      c. Validity of the knowledge source - source trustworthiness. Faithfulness ≠ Factuality
       d. Bias in attribution method
       e. Over-attribution & under-attribution
       f. Knowledge conflict
