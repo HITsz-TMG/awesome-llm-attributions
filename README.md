@@ -107,6 +107,11 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 ## 5. Approaches to Attribution
 
 ### 5.1 Direct Generated Attribution
+*   [2023/05] **"According to ..." Prompting Language Models Improves Quoting from Pre-Training Data** *Orion Weller et al. arXiv.*  [[paper](https://arxiv.org/abs/2305.13252)]
+      <!--```
+      This paper proposes according-to prompting to directing LLMs to ground responses against previously observed text, and propose QUIP-Score to measure the extent to which model-produced answers are directly found in underlying text corpora.
+      ```-->
+      
 *  [2023/07] **Credible Without Credit: Domain Experts Assess Generative Language Models** *Denis Peskoff et al. ACL 2023.* [[paper](https://aclanthology.org/2023.acl-short.37/)]
 
 *   [2023/09] **ChatGPT Hallucinates when Attributing Answers** *Guido Zuccon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09401)]
@@ -116,6 +121,8 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 *    [2023/09] **Towards Reliable and Fluent Large Language Models: Incorporating Feedback Learning Loops in QA Systems** *Dongyub Lee et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.06384.pdf)]
 
 *    [2023/09] **Retrieving Evidence from EHRs with LLMs: Possibilities and Challenges** *Hiba Ahsan et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.04550.pdf)]
+
+
 
 ### 5.2 Retrieval-then-Answering
 
@@ -176,10 +183,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 *   [2023/05] **Evaluating and Modeling Attribution for Cross-Lingual Question Answering** *Benjamin Muller et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14332)]
 *   [2023/05] **FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation** *Sewon Min et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14251)] [[code](https://github.com/shmsw25/FActScore)]
 
-*   [2023/05] **"According to ..." Prompting Language Models Improves Quoting from Pre-Training Data** *Orion Weller et al. arXiv.*  [[paper](https://arxiv.org/abs/2305.13252)]
-      <!--```
-      This paper proposes according-to prompting to directing LLMs to ground responses against previously observed text, and propose QUIP-Score to measure the extent to which model-produced answers are directly found in underlying text corpora.
-      ```-->
+
 *   [2023/05] **Automatic Evaluation of Attribution by Large Language Models.** *X Yue et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.06311.pdf)] [[code](https://github.com/OSU-NLP-Group/AttrScore)]
       <!--```
       This paper investigate the automatic evaluation of attribution by LLMs - AttributionScore, by providing a definition of attribution and then explore two approaches for automatic evaluation. The results highlight both promising signals as well as remaining challenges for the automatic evaluation of attribution.
