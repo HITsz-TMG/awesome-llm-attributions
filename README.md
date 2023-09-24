@@ -9,9 +9,8 @@ However, these systems often produce content that might not be reliable. In trad
 
 Attribution refers to the capacity of a model, such as an LLM, to generate and provide evidence, often in the form of references or citations, that substantiates the claims or statements it produces. This evidence is derived from identifiable sources, ensuring that the claims can be logically inferred from a foundational corpus, making them comprehensible and verifiable by a general audience. The primary purposes of attribution include enabling users to validate the claims made by the model, promoting the generation of text that closely aligns with the cited sources to enhance accuracy and reduce misinformation or hallucination, and establishing a structured framework for evaluating the completeness and relevance of the supporting evidence in relation to the presented claims.
 
-In this repo, we focus on summarizing where these systems get their facts from, a process known as attribution or citation. We look at where the facts come from, how they are used by the models, how well these methods work, and datasets and challenges like unclear knowledge sources, biases, and over-attribution.
 
-
+In this repository, we focus on unraveling the sources that these systems tap into for attribution or citation. We delve into the origins of these facts, their utilization by the models, the efficacy of these attribution methodologies, and grapple with challenges tied to ambiguous knowledge reservoirs, inherent biases, and the pitfalls of excessive attribution.
 
 
 
