@@ -26,6 +26,10 @@ In this repository, we focus on unraveling the sources that these systems tap in
      ```
       Attributing Model: trace model predictions back to training data. This paper introduces a data attribution method that is both effective and computationally tractable for large-scale, differentiable models.
       ```-->
+*   [2021/12] **Measuring Attribution in Natural Language Generation Models.** *H Rashkin et al. CL.* [[paper](https://arxiv.org/pdf/2112.12870.pdf)]
+      <!--```
+      This paper presents a new evaluation framework entitled Attributable to Identified Sources (AIS) for assessing the output of natural language generation models.
+      ```-->
 
 *   [2023/07] **Citation: A Key to Building Responsible and Accountable Large Language Models** *Jie Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.02185.pdf)] 
       <!--```
@@ -174,10 +178,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 
 
-*   [2021/12] **Measuring Attribution in Natural Language Generation Models.** *H Rashkin et al. CL.* [[paper](https://arxiv.org/pdf/2112.12870.pdf)]
-      <!--```
-      This paper presents a new evaluation framework entitled Attributable to Identified Sources (AIS) for assessing the output of natural language generation models.
-      ```-->
+
 * [2022/07] **Improving Wikipedia Verifiability with AI** *Fabio Petroni et al. arXiv.* [[paper](https://arxiv.org/pdf/2207.06220.pdf)]
 
 *   [2022/12] **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models.** *B Bohnet et al. arXiv.* [[paper](https://arxiv.org/pdf/2212.08037.pdf)] [[code](https://github.com/google-research-datasets/Attributed-QA)]
