@@ -121,6 +121,8 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 *  [2023/04] **Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks** *Shicheng Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.14732.pdf)]
 
+* [2023/05] **Mitigating Language Model Hallucination with Interactive Question-Knowledge Alignment** *Shuo Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.13669.pdf)]
+
 ### 5.3 Post-Generation Attribution
 
 *  [2022/10] **RARR: Researching and Revising What Language Models Say, Using Language Models** *Luyu Gao et al. arXiv.* [[paper](https://arxiv.org/abs/2210.08726)]
@@ -159,17 +161,18 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 ## 6. Attribution Evaluation
 
-WICE: Real-World Entailment for Claims in Wikipedia
 
-Improving Wikipedia Verifiability with AI https://arxiv.org/pdf/2207.06220.pdf
+
 
 *   [2021/12] **Measuring Attribution in Natural Language Generation Models.** *H Rashkin et al. CL.* [[paper](https://arxiv.org/pdf/2112.12870.pdf)]
       <!--```
       This paper presents a new evaluation framework entitled Attributable to Identified Sources (AIS) for assessing the output of natural language generation models.
       ```-->
+* [2022/07] **Improving Wikipedia Verifiability with AI** *Fabio Petroni et al. arXiv.* [[paper](https://arxiv.org/pdf/2207.06220.pdf)]
+
 *   [2022/12] **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models.** *B Bohnet et al. arXiv.* [[paper](https://arxiv.org/pdf/2212.08037.pdf)] [[code](https://github.com/google-research-datasets/Attributed-QA)]
 *   [2023/04] **Evaluating Verifiability in Generative Search Engines** *Nelson F. Liu et al. arXiv.* [[paper](http://arxiv.org/abs/2304.09848)] [[annonated data](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)] 
-
+*  [2023/05] **WICE: Real-World Entailment for Claims in Wikipedia** *Ryo Kamoi et al. arXiv.* [[paper](https://arxiv.org/pdf/2303.01432.pdf)]
 *   [2023/05] **Evaluating and Modeling Attribution for Cross-Lingual Question Answering** *Benjamin Muller et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14332)]
 *   [2023/05] **FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation** *Sewon Min et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14251)] [[code](https://github.com/shmsw25/FActScore)]
 
