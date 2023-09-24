@@ -61,6 +61,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2021/03] **Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI.** *Andreas Holzinger et al. arXiv.* [[paper](https://featurecloud.eu/wp-content/uploads/2021/03/Holzinger-et-al_2021_Towards-multi-model-causability.pdf)]
 
+* [2023/03] **Retrieving Multimodal Information for Augmented Generation: A Survey.** *Ruochen Zhao et al. arXiv.* [[paper](https://arxiv.org/pdf/2303.10868.pdf)]
+
 * [2023/07] **Improving Explainability of Disentangled Representations using Multipath-Attribution Mappings.** *Lukas Klein et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.09035.pdf)]
 
 * [2023/07] **Visual Explanations of Image-Text Representations via Mult-Modal Information Bottleneck Attribution.** *Ying Wang et al. arXiv.* [[paper](https://openreview.net/pdf?id=enSkaeByTE)]
