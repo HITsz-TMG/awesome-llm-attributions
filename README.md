@@ -5,11 +5,15 @@
 ## 🌟 Introduction
 
 Open-domain dialogue systems, driven by large language models, have changed the way we use conversational AI. 
-However, these systems often produce content that might not be reliable. In this repo, we focus on summarizing where these systems get their facts from, a process known as attribution or citation. We look at where the facts come from, how they are used by the models, how well these methods work, and datasets and challenges like unclear knowledge sources, biases, and over-attribution.
-
-However, in traditional open-domain settings, the focus is mostly on the answer’s relevance or accuracy rather than evaluating whether the answer is attributed to the retrieved documents. Previous work (Bohnet et al., 2022) also highlights that a QA model with high accuracy may not necessarily achieve high attribution.
+However, these systems often produce content that might not be reliable. In traditional open-domain settings, the focus is mostly on the answer’s relevance or accuracy rather than evaluating whether the answer is attributed to the retrieved documents. A QA model with high accuracy may not necessarily achieve high attribution. 
 
 Attribution refers to the capacity of a model, such as an LLM, to generate and provide evidence, often in the form of references or citations, that substantiates the claims or statements it produces. This evidence is derived from identifiable sources, ensuring that the claims can be logically inferred from a foundational corpus, making them comprehensible and verifiable by a general audience. The primary purposes of attribution include enabling users to validate the claims made by the model, promoting the generation of text that closely aligns with the cited sources to enhance accuracy and reduce misinformation or hallucination, and establishing a structured framework for evaluating the completeness and relevance of the supporting evidence in relation to the presented claims.
+
+In this repo, we focus on summarizing where these systems get their facts from, a process known as attribution or citation. We look at where the facts come from, how they are used by the models, how well these methods work, and datasets and challenges like unclear knowledge sources, biases, and over-attribution.
+
+
+
+
 
 ---
 
@@ -111,7 +115,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
       <!--```
       This paper proposes according-to prompting to directing LLMs to ground responses against previously observed text, and propose QUIP-Score to measure the extent to which model-produced answers are directly found in underlying text corpora.
       ```-->
-      
+
 *  [2023/07] **Credible Without Credit: Domain Experts Assess Generative Language Models** *Denis Peskoff et al. ACL 2023.* [[paper](https://aclanthology.org/2023.acl-short.37/)]
 
 *   [2023/09] **ChatGPT Hallucinates when Attributing Answers** *Guido Zuccon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09401)]
