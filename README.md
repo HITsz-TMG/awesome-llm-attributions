@@ -115,6 +115,8 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
       ```-->
 *    [2023/09] **Towards Reliable and Fluent Large Language Models: Incorporating Feedback Learning Loops in QA Systems** *Dongyub Lee et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.06384.pdf)]
 
+*    [2023/09] **Retrieving Evidence from EHRs with LLMs: Possibilities and Challenges** *Hiba Ahsan et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.04550.pdf)]
+
 ### 5.2 Retrieval-then-Answering
 
 *  [2023/04] **Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks** *Shicheng Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.14732.pdf)]
