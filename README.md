@@ -69,6 +69,11 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/07] **MAEA: Multimodal Attribution for Embodied AI.** *Vidhi Jain et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.13850.pdf)]
 
+### 2.4 Wiki
+
+* [2019/11] **Transforming Wikipedia into Augmented Data for Query-Focused Summarization.** *Haichao Zhu et al. TASLP.* [[paper](https://arxiv.org/pdf/1911.03324.pdf)]
+
+* [2023/04] **WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus.** *Hongjin Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.04358.pdf)]
 
 
 
@@ -185,7 +190,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 *   [2022/12] **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models.** *B Bohnet et al. arXiv.* [[paper](https://arxiv.org/pdf/2212.08037.pdf)] [[code](https://github.com/google-research-datasets/Attributed-QA)]
 *   [2023/04] **Evaluating Verifiability in Generative Search Engines** *Nelson F. Liu et al. arXiv.* [[paper](http://arxiv.org/abs/2304.09848)] [[annonated data](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)] 
-*  [2023/05] **WICE: Real-World Entailment for Claims in Wikipedia** *Ryo Kamoi et al. arXiv.* [[paper](https://arxiv.org/pdf/2303.01432.pdf)]
+*   [2023/05] **WICE: Real-World Entailment for Claims in Wikipedia** *Ryo Kamoi et al. arXiv.* [[paper](https://arxiv.org/pdf/2303.01432.pdf)]
 *   [2023/05] **Evaluating and Modeling Attribution for Cross-Lingual Question Answering** *Benjamin Muller et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14332)]
 *   [2023/05] **FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation** *Sewon Min et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14251)] [[code](https://github.com/shmsw25/FActScore)]
 
@@ -195,6 +200,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
       This paper investigate the automatic evaluation of attribution by LLMs - AttributionScore, by providing a definition of attribution and then explore two approaches for automatic evaluation. The results highlight both promising signals as well as remaining challenges for the automatic evaluation of attribution.
       ```-->
 *   [2023/07] **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios** *I-Chun Chern et al. arXiv.* [[paper](https://arxiv.org/abs/2307.13528v2)][[code](https://github.com/GAIR-NLP/factool)]
+
+*   [2023/09] **Quantifying and Attributing the Hallucination of Large Language Models via Association Analysis** *Li Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.05217v1.pdf)]
 
 
 ## 7. Limitations, Future Directions and Challenges in Attribution
