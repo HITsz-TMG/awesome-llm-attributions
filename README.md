@@ -36,9 +36,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
       This position paper embarks on an exploratory journey into the potential of integrating a citation mechanism within large language models, examining its prospective benefits, the inherent technical obstacles, and foreseeable pitfalls.
       ```-->
 
-
-
-
+*   [2023/10] **Establishing Trustworthiness: Rethinking Tasks and Model Evaluation** *Robert Litschko et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.05442.pdf)]
 
 ## 2. Attribution Paper Before the Era of Large Language Models and Related Task
 
@@ -51,6 +49,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 *   [2021/10] **Truthful AI: Developing and governing AI that does not lie** *Owain Evans et al. arXiv* [[paper](http://arxiv.org/abs/2110.06674)]
 
 *   [2021/05] **Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark** *Nouha Dziri et al. TACL'22* [[paper](https://aclanthology.org/2022.tacl-1.62/)][[code](https://github.com/google/BEGIN-dataset)]
+
+*   [2023/10] **Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models** *Haoran Wang et al. Findings of EMNLP'23* [[paper](https://arxiv.org/abs/2310.05253)]
 
 ### 2.2 Feature Attribution and Interpretability of Models for NLP 
 *   [2022/12] **Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI** *Alex Mei et al. findings of ACL'22* [[paper](https://aclanthology.org/2023.findings-acl.701.pdf)]
@@ -113,17 +113,10 @@ In this repository, we focus on unraveling the sources that these systems tap in
    <!--```
    This paper introduces the HAGRID dataset for building end-to-end generative information-seeking models that are capable of retrieving candidate quotes and generating attributed explanations.
    ```-->
-
 * [2023/09] **EXPERTQA : Expert-Curated Questions and Attributed Answers** *Chaitanya Malaviya et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.07852.pdf)] [[code](https://github.com/chaitanyamalaviya/expertqa)]
    <!--```
    This paper introduces the EXPERTQA, a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with verified answers and attributions for claims in the answers. 
    ```-->
-
-* [2023/10] **Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution** *Xinze Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.05634.pdf)]
-   <!--```
-   This paper defines a new task of Knowledge-aware Language Model Attribution (KaLMA), and builds a dataset in biography domain BioKaLMA via a well-designed evolutionary question generation strategy.
-   ```-->
-
 
 
 ## 5. Approaches to Attribution
@@ -211,6 +204,10 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 *   [2023/09] **Quantifying and Attributing the Hallucination of Large Language Models via Association Analysis** *Li Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.05217v1.pdf)]
 
+* [2023/10] **Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution** *Xinze Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.05634.pdf)]
+   <!--```
+   This paper defines a new task of Knowledge-aware Language Model Attribution (KaLMA), and builds a dataset in biography domain BioKaLMA via a well-designed evolutionary question generation strategy.
+   ```-->
 
 ## 7. Limitations, Future Directions and Challenges in Attribution
 
