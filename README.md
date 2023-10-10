@@ -117,6 +117,12 @@ In this repository, we focus on unraveling the sources that these systems tap in
    This paper introduces the EXPERTQA, a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with verified answers and attributions for claims in the answers. 
    ```-->
 
+* [2023/10] **Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution** *Xinze Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.05634.pdf)]
+   <!--```
+   This paper defines a new task of Knowledge-aware Language Model Attribution (KaLMA), and builds a dataset in biography domain BioKaLMA via a well-designed evolutionary question generation strategy.
+   ```-->
+
+
 
 ## 5. Approaches to Attribution
 
