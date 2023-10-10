@@ -69,6 +69,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/07] **MAEA: Multimodal Attribution for Embodied AI.** *Vidhi Jain et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.13850.pdf)]
 
+* [2023/10] **Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models.** *Archiki Prasad et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05861)] [[code](https://github.com/archiki/RepARe)]
+
 ### 2.4 Wiki
 
 * [2019/11] **Transforming Wikipedia into Augmented Data for Query-Focused Summarization.** *Haichao Zhu et al. TASLP.* [[paper](https://arxiv.org/pdf/1911.03324.pdf)]
