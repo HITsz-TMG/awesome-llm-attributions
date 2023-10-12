@@ -48,9 +48,11 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 *   [2021/10] **Truthful AI: Developing and governing AI that does not lie** *Owain Evans et al. arXiv* [[paper](http://arxiv.org/abs/2110.06674)]
 
-*   [2021/05] **Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark** *Nouha Dziri et al. TACL'22* [[paper](https://aclanthology.org/2022.tacl-1.62/)][[code](https://github.com/google/BEGIN-dataset)]
+*   [2021/05] **Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark** *Nouha Dziri et al. TACL'22* [[paper](https://aclanthology.org/2022.tacl-1.62/)] [[code](https://github.com/google/BEGIN-dataset)]
 
 *   [2023/10] **Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models** *Haoran Wang et al. Findings of EMNLP'23* [[paper](https://arxiv.org/abs/2310.05253)]
+
+*   [2022/07] **Improving Wikipedia Verifiability with AI** *Fabio Petroni et al. arXiv.* [[paper](https://arxiv.org/pdf/2207.06220.pdf)] [[code](https://github.com/facebookresearch/side)]
 
 ### 2.2 Feature Attribution and Interpretability of Models for NLP 
 *   [2022/12] **Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI** *Alex Mei et al. findings of ACL'22* [[paper](https://aclanthology.org/2023.findings-acl.701.pdf)]
@@ -77,7 +79,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/04] **WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus.** *Hongjin Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.04358.pdf)]
 
-
+### 2.5 Model based Information Retrieval
+* [2022/02] **Transformer Memory as a Differentiable Search Index** *Yi Tay et al. NeurIPS'22* [[paper](https://arxiv.org/pdf/2202.06991.pdf)]
 
 ## 3. Sources of Attribution
 
