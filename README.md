@@ -118,7 +118,6 @@ In this repository, we focus on unraveling the sources that these systems tap in
    This paper introduces the EXPERTQA, a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with verified answers and attributions for claims in the answers. 
    ```-->
 
-
 ## 5. Approaches to Attribution
 
 ### 5.1 Direct Generated Attribution
@@ -144,6 +143,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 *  [2023/04] **Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks** *Shicheng Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.14732.pdf)]
 
 * [2023/05] **Mitigating Language Model Hallucination with Interactive Question-Knowledge Alignment** *Shuo Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.13669.pdf)]
+
+* [2023/03] **SmartBook: AI-Assisted Situation Report Generation** *Revanth Gangi Reddy et al. arXiv.* [[paper](https://arxiv.org/abs/2303.14337)]
 
 ### 5.3 Post-Generation Attribution
 
