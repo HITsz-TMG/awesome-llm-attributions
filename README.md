@@ -208,10 +208,13 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 *   [2023/09] **Quantifying and Attributing the Hallucination of Large Language Models via Association Analysis** *Li Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.05217v1.pdf)]
 
-* [2023/10] **Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution** *Xinze Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.05634.pdf)]
+*   [2023/10] **Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution** *Xinze Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.05634.pdf)]
    <!--```
    This paper defines a new task of Knowledge-aware Language Model Attribution (KaLMA), and builds a dataset in biography domain BioKaLMA via a well-designed evolutionary question generation strategy.
    ```-->
+
+* [2023/10] **Understanding Retrieval Augmentation for Long-Form Question Answering** *Hung-Ting Chen et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.12150.pdf)]
+
 
 ## 7. Limitations, Future Directions and Challenges in Attribution
 
