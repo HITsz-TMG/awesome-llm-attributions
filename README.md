@@ -139,6 +139,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 *    [2023/09] **Retrieving Evidence from EHRs with LLMs: Possibilities and Challenges** *Hiba Ahsan et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.04550.pdf)]
 
+* [2023/10] **Learning to Plan and Generate Text with Citations** *Annoymous et al. OpenReview, ICLR 2024* [[paper](https://openreview.net/forum?id=6NEJ0ReNzr)]
+
 
 
 ### 5.2 Retrieval-then-Answering
