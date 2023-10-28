@@ -147,6 +147,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/10] **Learning to Plan and Generate Text with Citations** *Annoymous et al. OpenReview, ICLR 2024* [[paper](https://openreview.net/forum?id=6NEJ0ReNzr)]
 
+* [2023/10] **1-PAGER: One Pass Answer Generation and Evidence Retrieval** *Palak Jain et al. arxiv* [[paper](https://arxiv.org/pdf/2310.16568v1.pdf)]
+
 
 
 ### 5.2 Retrieval-then-Answering
