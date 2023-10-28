@@ -80,7 +80,13 @@ In this repository, we focus on unraveling the sources that these systems tap in
 * [2023/04] **WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus.** *Hongjin Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.04358.pdf)]
 
 ### 2.5 Model based Information Retrieval
+
 * [2022/02] **Transformer Memory as a Differentiable Search Index** *Yi Tay et al. NeurIPS'22* [[paper](https://arxiv.org/pdf/2202.06991.pdf)]
+
+### 2.6 Small Language Model
+
+* [2023/08] **Optimizing Factual Accuracy in Text Generation through Dynamic Knowledge Selection** *Hongjin Qian et al. arxiv.* [[paper](https://arxiv.org/pdf/2308.15711.pdf)]
+
 
 ## 3. Sources of Attribution
 
