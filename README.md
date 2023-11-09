@@ -164,7 +164,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/03] **SmartBook: AI-Assisted Situation Report Generation** *Revanth Gangi Reddy et al. arXiv.* [[paper](https://arxiv.org/abs/2303.14337)]
 
-* [2023/10] **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection** *Akari Asai et al. arXiv.* [[paper](https://arxiv.org/abs/2310.11511)]
+* [2023/10] **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection** *Akari Asai et al. arXiv.* [[paper](https://arxiv.org/abs/2310.11511)] [[homepage](https://selfrag.github.io/)]
 
 ### 5.3 Post-Generation Attribution
 
