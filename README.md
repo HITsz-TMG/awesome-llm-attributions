@@ -62,6 +62,10 @@ In this repository, we focus on unraveling the sources that these systems tap in
 ### 2.2 Feature Attribution and Interpretability of Models for NLP 
 *   [2022/12] **Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI** *Alex Mei et al. findings of ACL'22* [[paper](https://aclanthology.org/2023.findings-acl.701.pdf)]
 
+*   [2023/07] **Inseq: An Interpretability Toolkit for Sequence Generation Models** *Gabriele Sarti et al. ACL Demo'23* [[paper](https://aclanthology.org/2023.acl-demo.40)] [[library](https://github.com/inseq-team/inseq)]
+
+*   [2023/10] **Quantifying the Plausibility of Context Reliance in Neural Machine Translation** *Gabriele Sarti et al. arXiv.* [[paper](https://arxiv.org/abs/2310.01188)]
+
 ### 2.3 Attribution in Mutli-modal Systems
 
 * [2017/06] **A unified view of gradient-based attribution methods for Deep Neural Networks.** *Marco Ancona et al. arXiv.* [[paper](http://www.interpretable-ml.org/nips2017workshop/papers/02.pdf)]
