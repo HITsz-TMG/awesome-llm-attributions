@@ -1,4 +1,4 @@
-# A Survey of Attributions for Large Language Models
+# A Survey of Large Language Models Attribution [[ArXiv preprint](https://arxiv.org/abs/2311.03731)]
 
 ---
 
@@ -12,7 +12,7 @@ Attribution refers to the capacity of a model, such as an LLM, to generate and p
 
 In this repository, we focus on unraveling the sources that these systems tap into for attribution or citation. We delve into the origins of these facts, their utilization by the models, the efficacy of these attribution methodologies, and grapple with challenges tied to ambiguous knowledge reservoirs, inherent biases, and the pitfalls of excessive attribution.
 
-**✨ We would like to appreciate any contributions via PRs, issues from NLP community.**
+**✨ Work in progress. We would like to appreciate any contributions via PRs, issues from NLP community.**
 
 ---
 
