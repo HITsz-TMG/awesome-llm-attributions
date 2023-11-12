@@ -135,6 +135,10 @@ In this repository, we focus on unraveling the sources that these systems tap in
    <!--```
    This paper introduces the EXPERTQA, a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with verified answers and attributions for claims in the answers. 
    ```-->
+* [2023/11] **SEMQA: Semi-Extractive Multi-Source Question Answering** *Tal Schuster et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.04886.pdf)] [[code](https://github.com/google-research-datasets/QuoteSum)]
+   <!--```
+   This paper  introduce a new QA task, Semi-extractive Multi-source QA (SEMQA), for answering multi-answer questions by summarizing multiple diverse sources in a semi-extractive fashion, which requires models to output a comprehensive answer, while mixing factual quoted spans—copied verbatim from given input sources—and non-factual free-text connectors that glue these spans together into a single cohesive passage.
+    ```-->
 
 ## 5. Approaches to Attribution
 
