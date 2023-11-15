@@ -257,11 +257,14 @@ In this repository, we focus on unraveling the sources that these systems tap in
 ## Cite
 
 ```
-@misc{llmattribution2023,
-  title={A Survey of Attributions for Large Language Models},
-  author={Dongfang Li, Zetian Sun, Xinshuo Hu, Zhenyu Liu},
-  year={2023},
-  howpublished={\url{https://github.com/HITsz-TMG/awesome-llm-attributions}},
+@misc{li2023llmattribution,
+      title={A Survey of Large Language Models Attribution}, 
+      author={Dongfang Li and Zetian Sun and Xinshuo Hu and Zhenyu Liu and Ziyang Chen and Baotian Hu and Aiguo Wu and Min Zhang},
+      year={2023},
+      eprint={2311.03731},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      howpublished={\url{https://github.com/HITsz-TMG/awesome-llm-attributions}},
 }
 ```
 ***For finding survey of hallucination please refer to:***
