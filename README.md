@@ -174,6 +174,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/10] **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection** *Akari Asai et al. arXiv.* [[paper](https://arxiv.org/abs/2310.11511)] [[homepage](https://selfrag.github.io/)]
 
+* [2023/11] **LLatrieval: LLM-Verified Retrieval for Verifiable Generation** *Xiaonan Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.07838.pdf)]
+
 ### 5.3 Post-Generation Attribution
 
 *  [2022/10] **RARR: Researching and Revising What Language Models Say, Using Language Models** *Luyu Gao et al. arXiv.* [[paper](https://arxiv.org/abs/2210.08726)]
