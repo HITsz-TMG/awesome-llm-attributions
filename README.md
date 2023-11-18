@@ -242,6 +242,10 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/10] **Understanding Retrieval Augmentation for Long-Form Question Answering** *Hung-Ting Chen et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.12150.pdf)]
 
+* [2023/11] **Trusted Source Alignment in Large Language Models** *Vasilisa Bashlovkina et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.06697.pdf)]
+
+* [2023/11] **Enhancing Medical Text Evaluation with GPT-4** *Yiqing Xie et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.09581.pdf)]
+
 
 ## 7. Limitations, Future Directions and Challenges in Attribution
 
