@@ -176,6 +176,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/11] **LLatrieval: LLM-Verified Retrieval for Verifiable Generation** *Xiaonan Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.07838.pdf)]
 
+* [2023/11] **Effective Large Language Model Adaptation for Improved Grounding** *Xi Ye et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.09533.pdf)]
+
 ### 5.3 Post-Generation Attribution
 
 *  [2022/10] **RARR: Researching and Revising What Language Models Say, Using Language Models** *Luyu Gao et al. arXiv.* [[paper](https://arxiv.org/abs/2210.08726)]
