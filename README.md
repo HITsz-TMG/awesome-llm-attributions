@@ -177,7 +177,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/10] **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection** *Akari Asai et al. arXiv.* [[paper](https://arxiv.org/abs/2310.11511)] [[homepage](https://selfrag.github.io/)]
 
-* [2023/11] **LLatrieval: LLM-Verified Retrieval for Verifiable Generation** *Xiaonan Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.07838.pdf)]
+* [2023/11] **LLatrieval: LLM-Verified Retrieval for Verifiable Generation** *Xiaonan Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.07838.pdf)] [[code](https://github.com/BeastyZ/LLM-Verified-Retrieval)]
 
 * [2023/11] **Effective Large Language Model Adaptation for Improved Grounding** *Xi Ye et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.09533.pdf)]
 
