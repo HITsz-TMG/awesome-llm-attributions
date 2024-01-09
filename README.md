@@ -181,6 +181,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/11] **Effective Large Language Model Adaptation for Improved Grounding** *Xi Ye et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.09533.pdf)]
 
+* [2023/5] **WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia** *Sina Semnani et al. Findings of EMNLP'23** [[paper]](https://arxiv.org/abs/2305.14292) [[code]](https://github.com/stanford-oval/WikiChat) [[demo]](https://wikichat.genie.stanford.edu)
+
 ### 5.3 Post-Generation Attribution
 
 *  [2022/10] **RARR: Researching and Revising What Language Models Say, Using Language Models** *Luyu Gao et al. arXiv.* [[paper](https://arxiv.org/abs/2210.08726)]
