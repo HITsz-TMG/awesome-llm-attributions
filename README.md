@@ -165,7 +165,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/10] **1-PAGER: One Pass Answer Generation and Evidence Retrieval** *Palak Jain et al. arxiv* [[paper](https://arxiv.org/pdf/2310.16568v1.pdf)]
 
-
+* [2024/2] **How well do LLMs cite relevant medical references? An evaluation framework and analyses** *Kevin Wu et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.02008.pdf)]
 
 ### 5.2 Retrieval-then-Answering
 
