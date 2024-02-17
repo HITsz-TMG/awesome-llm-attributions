@@ -142,6 +142,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
    <!--```
    This paper  introduce a new QA task, Semi-extractive Multi-source QA (SEMQA), for answering multi-answer questions by summarizing multiple diverse sources in a semi-extractive fashion, which requires models to output a comprehensive answer, while mixing factual quoted spans—copied verbatim from given input sources—and non-factual free-text connectors that glue these spans together into a single cohesive passage.
     ```-->
+* [2024/1] **Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs** *Nan Hu et al. arXiv* [[paper](https://arxiv.org/pdf/2401.14640.pdf)]
 
 ## 5. Approaches to Attribution
 
