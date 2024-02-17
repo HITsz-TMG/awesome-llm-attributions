@@ -142,7 +142,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
    <!--```
    This paper  introduce a new QA task, Semi-extractive Multi-source QA (SEMQA), for answering multi-answer questions by summarizing multiple diverse sources in a semi-extractive fashion, which requires models to output a comprehensive answer, while mixing factual quoted spans—copied verbatim from given input sources—and non-factual free-text connectors that glue these spans together into a single cohesive passage.
     ```-->
-* [2024/1] **Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs** *Nan Hu et al. arXiv* [[paper](https://arxiv.org/pdf/2401.14640.pdf)]
+* [2024/01] **Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs** *Nan Hu et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.14640.pdf)]
 
 ## 5. Approaches to Attribution
 
@@ -182,10 +182,12 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2023/11] **Effective Large Language Model Adaptation for Improved Grounding** *Xi Ye et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.09533.pdf)]
 
-* [2024/1] **Towards Verifiable Text Generation with Evolving Memory and Self-Reflection** *Hao Sun et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.09075.pdf)]
+* [2024/01] **Towards Verifiable Text Generation with Evolving Memory and Self-Reflection** *Hao Sun et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.09075.pdf)]
 
-* [2023/5] **WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia** *Sina Semnani et al. Findings of EMNLP'23** [[paper]](https://arxiv.org/abs/2305.14292) [[code]](https://github.com/stanford-oval/WikiChat) [[demo]](https://wikichat.genie.stanford.edu)
-
+<!--* [2023/05] **WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia** *Sina Semnani et al. Findings of EMNLP'23** [[paper]](https://arxiv.org/abs/2305.14292) [[code]](https://github.com/stanford-oval/WikiChat) [[demo]](https://wikichat.genie.stanford.edu)-->
+  
+* [2024/02] **Training Language Models to Generate Text with Citations via Fine-grained Rewards** *Chengyu Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.04315.pdf)]
+  
 ### 5.3 Post-Generation Attribution
 
 *  [2022/10] **RARR: Researching and Revising What Language Models Say, Using Language Models** *Luyu Gao et al. arXiv.* [[paper](https://arxiv.org/abs/2210.08726)]
