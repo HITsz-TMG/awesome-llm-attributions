@@ -45,7 +45,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 *  [2023/11] **Unifying Corroborative and Contributive Attributions in Large Language Models** *Theodora Worledge et al. NeurIPS ATTRIB Workshop 2023* [[paper](https://arxiv.org/pdf/2311.12233.pdf)]
 
-
+* [2024/03] **Reliable, Adaptable, and Attributable Language Models with Retrieval** *Akari Asai et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.03187.pdf)]
+  
 ## 2. Attribution Paper Before the Era of Large Language Models and Related Task
 
 ### 2.1 Fact Checking & Claim Verificication & Natural Language Inference
