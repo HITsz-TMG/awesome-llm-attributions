@@ -188,6 +188,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 <!--* [2023/05] **WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia** *Sina Semnani et al. Findings of EMNLP'23** [[paper]](https://arxiv.org/abs/2305.14292) [[code]](https://github.com/stanford-oval/WikiChat) [[demo]](https://wikichat.genie.stanford.edu)-->
   
 * [2024/02] **Training Language Models to Generate Text with Citations via Fine-grained Rewards** *Chengyu Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.04315.pdf)]
+
+* [2024/03] **Improving Attributed Text Generation of Large Language Models via Preference Learning** *Dongfang Li et al. arXiv.* [[paper](https://arxiv.org/abs/2403.18381)]
   
 ### 5.3 Post-Generation Attribution
 
