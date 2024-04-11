@@ -169,6 +169,9 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2024/2] **How well do LLMs cite relevant medical references? An evaluation framework and analyses** *Kevin Wu et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.02008.pdf)]
 
+* [2024/4] **Source-Aware Training Enables Knowledge Attribution in Language Models.** *Muhammad Khalifa et al. arXiv.*  [[paper](https://arxiv.org/abs/2404.01019)]
+
+
 ### 5.2 Retrieval-then-Answering
 
 *  [2023/04] **Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks** *Shicheng Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.14732.pdf)]
@@ -190,6 +193,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 * [2024/02] **Training Language Models to Generate Text with Citations via Fine-grained Rewards** *Chengyu Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.04315.pdf)]
 
 * [2024/03] **Improving Attributed Text Generation of Large Language Models via Preference Learning** *Dongfang Li et al. arXiv.* [[paper](https://arxiv.org/abs/2403.18381)]
+
+
   
 ### 5.3 Post-Generation Attribution
 
@@ -223,7 +228,6 @@ In this repository, we focus on unraveling the sources that these systems tap in
 *  [2022/09] **Improving alignment of dialogue agents via targeted human judgements.**  *Amelia Glaese  et al. arXiv.* [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
 
 * [2023/05] **WebCPM: Interactive Web Search for Chinese Long-form Question Answering.** *Yujia Qin et al. arXiv.*  [[paper](https://arxiv.org/pdf/2305.06849.pdf)]
-
 
 
 
