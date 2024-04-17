@@ -171,6 +171,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2024/4] **Source-Aware Training Enables Knowledge Attribution in Language Models.** *Muhammad Khalifa et al. arXiv.*  [[paper](https://arxiv.org/abs/2404.01019)]
 
+* [2024/4] **CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity** *Moshe Berchansky et al. arXiv.* [[paper](https://arxiv.org/abs/2404.10513)]
 
 ### 5.2 Retrieval-then-Answering
 
