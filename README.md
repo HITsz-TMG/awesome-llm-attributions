@@ -177,6 +177,8 @@ In this repository, we focus on unraveling the sources that these systems tap in
 
 * [2024/4] **CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity** *Moshe Berchansky et al. arXiv.* [[paper](https://arxiv.org/abs/2404.10513)]
 
+* [2024/7] **Improving Retrieval Augmented Language Model with Self-Reasoning** *Xia et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.19813)]
+
 ### 5.2 Retrieval-then-Answering
 
 *  [2023/04] **Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks** *Shicheng Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.14732.pdf)]
