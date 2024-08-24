@@ -221,7 +221,7 @@ In this repository, we focus on unraveling the sources that these systems tap in
       <!--```
       This paper proposes a two-step verification. The LLM's answer and the retrieved document queried by question and LLM's answer are compared by LLM, checking whether the LLM's answer is hallucinated.
       ```-->
-
+* [2024/06] **CaLM: Contrasting Large and Small Language Models to Verify Grounded Generation** *I-Hung Hsu1 et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.05365)]
 
 
 ### 5.4 Attribution Systems & End-to-End Attribution Models
