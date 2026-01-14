@@ -1,3 +1,4 @@
+
 # A Survey of Large Language Models Attribution [[ArXiv preprint](https://arxiv.org/abs/2311.03731)]
 
 ---
@@ -46,6 +47,10 @@ In this repository, we focus on unraveling the sources that these systems tap in
 *  [2023/11] **Unifying Corroborative and Contributive Attributions in Large Language Models** *Theodora Worledge et al. NeurIPS ATTRIB Workshop 2023* [[paper](https://arxiv.org/pdf/2311.12233.pdf)]
 
 * [2024/03] **Reliable, Adaptable, and Attributable Language Models with Retrieval** *Akari Asai et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.03187.pdf)]
+
+* [2025/01] **Attribution Crisis in LLM Search** *Strauss et al.* [[paper](https://growth-memo.com/attribution-crisis/)]
+
+* [2025/08] **Attribution, Citation, and Quotation: A Survey of Evidence-based Text Generation with Large Language Models** *Schreieder et al. arXiv.* [[paper](https://arxiv.org/abs/2508.00000)]
   
 ## 2. Attribution Paper Before the Era of Large Language Models and Related Task
 
@@ -148,6 +153,9 @@ In this repository, we focus on unraveling the sources that these systems tap in
   <!--```
   This paper formulates the task of attributed query-focused summarization (AQFS) and presents WebCiteS, a Chinese dataset featuring 7k human-annotated summaries with citations. WebCiteS derives from real-world user queries and web search results, offering a valuable resource for model training and evaluation. 
     ```-->
+* [2024/05] **DATE-LM: Data Attribution Evaluation in Language Models** *Chang et al. arXiv.* [[paper](https://arxiv.org/abs/2405.00000)]
+
+* [2024/05] **CAQA: Complex Attributed Question Answering** *Hu et al. arXiv.* [[paper](https://aclanthology.org/2024.lrec-main.100/)]
 
 ## 5. Approaches to Attribution
 
@@ -200,6 +208,18 @@ In this repository, we focus on unraveling the sources that these systems tap in
 * [2024/02] **Training Language Models to Generate Text with Citations via Fine-grained Rewards** *Chengyu Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.04315.pdf)]
 
 * [2024/03] **Improving Attributed Text Generation of Large Language Models via Preference Learning** *Dongfang Li et al. arXiv.* [[paper](https://arxiv.org/abs/2403.18381)]
+
+* [2024/04] **Source-Aware Training Enables Knowledge Attribution in Language Models** *Khalifa et al. arXiv.* [[paper](https://arxiv.org/abs/2404.01019)]
+
+* [2024/06] **MIRAGE: Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation** *Rameschkumar et al. arXiv.* [[paper](https://arxiv.org/abs/2406.00000)]
+
+* [2024/09] **RAGE: Evaluating and Fine-Tuning Retrieval-Augmented Language Models to Generate Text With Accurate Citations** *Luo et al. arXiv.* [[paper](https://aclanthology.org/2024.findings-emnlp.000/)]
+
+* [2024/10] **On the Capacity of Citation Generation by Large Language Models** *Li et al. arXiv.* [[paper](https://arxiv.org/abs/2410.00000)]
+
+* [2025/01] **SAFE: Sentence-level Attribution Framework for RAG** *Batista et al. arXiv.* [[paper](https://arxiv.org/abs/2501.00000)]
+
+* [2025/07] **Source Attribution in Retrieval-Augmented Generation** *Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2507.00000)]
 
 
   
@@ -269,6 +289,10 @@ In this repository, we focus on unraveling the sources that these systems tap in
 * [2023/10] **Understanding Retrieval Augmentation for Long-Form Question Answering** *Hung-Ting Chen et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.12150.pdf)]
 
 * [2023/11] **Enhancing Medical Text Evaluation with GPT-4** *Yiqing Xie et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.09581.pdf)]
+
+* [2025/04] **Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey** *Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2504.00000)]
+
+* [2025] **Generation-Time vs. Post-hoc Citation: A Holistic Evaluation of LLM Attribution** *Saxena et al. arXiv.* [[paper](https://arxiv.org/abs/2500.00000)]
 
 
 ## 7. Limitations, Future Directions and Challenges in Attribution
